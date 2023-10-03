@@ -1,1 +1,1 @@
-# PRediction-BankData
+# Prediction-BankData
